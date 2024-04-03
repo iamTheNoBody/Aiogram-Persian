@@ -55,10 +55,10 @@ asyncio.run(main())
 ## 🔗 لینک های ارتباطی
 
 **همچنین میتوانید برای ارتباط با ما به گروه تلگرامی ما مراجعه کنید.**
-[![Aiogram Farsi](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)]("https://t.me/aiogram_fa)
+[![Aiogram Farsi](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/aiogram_fa)
 
 **لینک گروه اصلی**
-[![Aiogram Farsi](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)]("https://t.me/aiogram)
+[![Aiogram Farsi](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/aiogram)
 ## حمایت
 میتوانید به عنوان حمایت از ما به این مخزن ستاره بدهید :))
 
